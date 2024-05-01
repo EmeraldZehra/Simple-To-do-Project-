@@ -5,7 +5,7 @@
 Simple To-Do, is a minimalist to-do list application built on the Ethereum blockchain.
 [TR]Ethereum blok zinciri üzerinde oluşturulmuş minimalist bir yapılacaklar listesi uygulamasıdır.
 
-About me: [LinkedIn]([link](https://www.linkedin.com/in/fzy))
+About me: [LinkedIn](https://www.linkedin.com/in/fzy)
 
 ## Project Description
 
